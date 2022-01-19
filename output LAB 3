@@ -1,0 +1,14 @@
+PLEASE ENTER THE NUMBER OF WORD YOU WANT INPUT?
+6
+ENTER INPUT 6 WORDS:
+hello
+world
+hello
+germany
+hello
+berlin
+WORD THAT YOUR WANT COUNT:
+hello: 3
+world: 1
+germany: 1
+berlin: 1
